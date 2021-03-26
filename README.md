@@ -3,8 +3,8 @@
 This data repository combines and aggregates publicly available data from SafeGraph Ltd., Opportunity Insights, and OxCGRT. It studies the period of April 13,2020 (week 0) through November 25,2020 (week 32)
 
 The following abbreviations are used:
-fips - County FIPS code
-SB_T - % small business recovery (vs. January baseline) at week T
+fips - County FIPS code \\ 
+SB_T - % small business recovery (vs. January baseline) at week T \\
 pcs_T - % recovery in visitors to personal care services (vs. January baseline) at week T
 rest_T - % recovery in visitors to full-service restaurants (vs. January baseline) at week T
 sms_T - % recovery in visitors to supermarkets (vs. January baseline) at week T
