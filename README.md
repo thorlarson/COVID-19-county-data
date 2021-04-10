@@ -1,6 +1,6 @@
 # COVID-19-county-data
 
-This data repository combines and aggregates publicly available data from SafeGraph Ltd., Opportunity Insights, and OxCGRT. It studies the period of April 13,2020 (week 0) through November 25,2020 (week 32)
+This data repository combines and aggregates publicly available data from SafeGraph Ltd., Opportunity Insights, and OxCGRT. It studies the period of **April 13,2020 (week 0) through November 25,2020 (week 32)**
 
 The following abbreviations are used:
 
